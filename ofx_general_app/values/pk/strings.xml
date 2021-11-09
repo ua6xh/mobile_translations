@@ -1,0 +1,5 @@
+<resources xmlns:border-bottom="http://schemas.android.com/tools">
+  <string name="comfirming_email_screen_toolbar_title">ای میل ایڈریس کی تصدیق کریں</string>
+  <string name="comfirming_email_screen_title">ہم آپ کو تصدیق کے لئے لنک بھیجیں گے</string>
+  <string name="comfirming_email_screen_btn_text">بھیجیں</string>
+</resources>

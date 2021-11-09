@@ -1,0 +1,5 @@
+<resources xmlns:border-bottom="http://schemas.android.com/tools">
+  <string name="comfirming_email_screen_toolbar_title">Mengesahkan alamat e-mel</string>
+  <string name="comfirming_email_screen_title">Kami akan menghantar pautan pengesahan kepada anda</string>
+  <string name="comfirming_email_screen_btn_text">Hantar</string>
+</resources>

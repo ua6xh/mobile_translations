@@ -1,0 +1,5 @@
+<resources xmlns:border-bottom="http://schemas.android.com/tools">
+  <string name="comfirming_email_screen_toolbar_title">Konfirmasi alamat email</string>
+  <string name="comfirming_email_screen_title">Kami akan mengirimkan tautan konfirmasi</string>
+  <string name="comfirming_email_screen_btn_text">Kirimkan</string>
+</resources>

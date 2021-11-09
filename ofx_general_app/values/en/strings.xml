@@ -1,0 +1,5 @@
+<resources xmlns:border-bottom="http://schemas.android.com/tools">
+  <string name="comfirming_email_screen_toolbar_title">Confirming email address</string>
+  <string name="comfirming_email_screen_title">We will send you the confirmation link</string>
+  <string name="comfirming_email_screen_btn_text">Send it</string>
+</resources>
